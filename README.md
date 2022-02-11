@@ -1,5 +1,4 @@
-# Desafio git hub bootcamp Eduz
-Desafio projeto GITHub
-
+# Desafio git hub Eduz
+Repositorio criado para o desafio de projeto
 ## Links uteis
-[Sintaxe basica Makdow]()
+[Sintaxe basica Makdow](https://markdown.net.br/sintaxe-basica/)
