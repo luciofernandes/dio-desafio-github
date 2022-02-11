@@ -1,0 +1,4 @@
+comandos
+git status
+git clone git@github.com:luciofernandes/dio-desafio-github.git
+git add
